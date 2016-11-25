@@ -1,28 +1,28 @@
 # InterviewTrackingAssignment
 
 1. Manage candidate list (add,edit, delete)
-1.1 Candidate info: 
-     Week No.    
-     Full Name    
-     Uni. Name    
-     Gpa    
-     Faculty    
-     Graduation Year    
-     Position    
-     Interview Date    
-     IQ Test
-     Technical Test    
-     Toeic
-     Interview Result    
-     Interview Comments    
-     Interviewer Name
-     Day Of Birth
-     Email
-     Phone 
-     Address
-     Degree (College, Bachalor,..)
-     Source    
-     Notes
+- Candidate info: 
+- Week No.    
+- Full Name.
+- Uni. Name.    
+- Gpa.  
+- Faculty.  
+- Graduation Year. 
+- Position.
+- Interview Date.
+- IQ Test.
+- Technical Test.    
+- Toeic.
+- Interview Result.
+- Interview Comments.
+- Interviewer Name.
+- Day Of Birth.
+- Email.
+- Phone.
+- Address.
+- Degree (College, Bachalor,..).
+- Source.   
+- Notes.
 
 1.2 Statistics: 
    . List and count all candidates PASSED/FAILED by weekly, monthly, quarterly, or by [from date, to date]
