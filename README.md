@@ -1,7 +1,7 @@
 # InterviewTrackingAssignment
 
 1. Manage candidate list (add,edit, delete)
- 1.1 Candidate info: 
+1.1 Candidate info: 
      Week No.    
      Full Name    
      Uni. Name    
@@ -24,7 +24,7 @@
      Source    
      Notes
 
- 1.2 Statistics: 
+1.2 Statistics: 
    . List and count all candidates PASSED/FAILED by weekly, monthly, quarterly, or by [from date, to date]
    . List and count all candidates filter by Univerity name, GPA, interview times, Faculty, week no, Graduation Year, Toeic, Passed/Failed..)
 
