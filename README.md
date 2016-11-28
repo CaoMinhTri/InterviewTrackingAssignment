@@ -1,7 +1,7 @@
 # InterviewTrackingAssignment
 
 Manage candidate list (add,edit, delete)
- - Candidate info: 
+Candidate info: 
  - Week No.    
  - Full Name.
  - Uni. Name.    
