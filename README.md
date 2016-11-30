@@ -1,6 +1,6 @@
 # InterviewTrackingAssignment
 
-Manage candidate list (add,edit, delete)
+####Manage candidate list (add,edit, delete)
 Candidate info: 
  - Week No.    
  - Full Name.
@@ -24,11 +24,11 @@ Candidate info:
  - Source.   
  - Notes.
 
-Statistics: 
+####Statistics: 
  - List and count all candidates PASSED/FAILED by weekly, monthly, quarterly, or by [from date, to date]
  - List and count all candidates filter by Univerity name, GPA, interview times, Faculty, week no, Graduation Year, Toeic, Passed/Failed..)
 
-User management: There are 3 roles (admin, interviewer, PM)
+####User management: There are 3 roles (admin, interviewer, PM)
  - Admin is able to create/edit/delete interviewer account
  - Interviewer can change password.
  - Interviewer can manage his candidate only
